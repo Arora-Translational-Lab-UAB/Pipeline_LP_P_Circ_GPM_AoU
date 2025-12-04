@@ -1,0 +1,34 @@
+*.rda
+*.csv
+*.tsv
+*.raw
+geno/
+annot/
+tool_install/
+*.log
+
+# Ignore data files and intermediate outputs
+data_files/*
+*.vcf
+*.vcf.gz
+*.bcf
+*.bed
+*.bim
+*.fam
+*.bed
+*.raw
+*.csv
+
+# Ignore R and Python cache
+__pycache__/
+*.Rhistory
+*.RData
+.Rproj.user
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any file containing credentials (just in case)
+credentials.json
+secrets.sh
