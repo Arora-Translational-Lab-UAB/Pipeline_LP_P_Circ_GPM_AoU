@@ -73,3 +73,5 @@ We are committed to providing a welcoming and inclusive environment for collabor
 ### LICENSE (MIT License Template)
 
 The code in this repository is distributed under the MIT License.
+
+Please do cite this if you are planning to use this codes or results : https://www.ahajournals.org/doi/10.1161/CIRCGEN.124.005113?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
