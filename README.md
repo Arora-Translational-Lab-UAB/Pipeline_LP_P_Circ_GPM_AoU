@@ -4,6 +4,8 @@ This repository contains the complete, modular pipeline for extracting, annotati
 
 The workflow is strictly sequential, utilizing **Hail/Python**, **Bash/dsub**, and **R** to manage large-scale genomic data processing.
 
+Please do cite this if you are planning to use this codes or results: Shetty NS, Pampana A, Gaonkar M, Patel N, Vekariya N, Smith JG, Kalra R, Chahal CAA, Semsarian C, Li P, Arora G, Arora P. Association of Pathogenic/Likely Pathogenic Genetic Variants for Cardiomyopathies With Clinical Outcomes: A Multiancestry Analysis in the All of Us Research Program. Circ Genom Precis Med. 2025 Jun;18(3):e005113. doi: 10.1161/CIRCGEN.124.005113. Epub 2025 May 28. PMID: 40433684.
+
 ---
 
 ## 📂 Repository Structure
@@ -74,4 +76,4 @@ We are committed to providing a welcoming and inclusive environment for collabor
 
 The code in this repository is distributed under the MIT License.
 
-Please do cite this if you are planning to use this codes or results : https://www.ahajournals.org/doi/10.1161/CIRCGEN.124.005113?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+
